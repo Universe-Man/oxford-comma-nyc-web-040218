@@ -9,5 +9,4 @@ def oxford_comma(array)
     lastAndThing = "and #{theLastThing}"
     theFinalThingTogether = theFirstThings + lastAndThing
   end
-  theFinalThingTogether
 end
